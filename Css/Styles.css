@@ -1,0 +1,106 @@
+body{
+  text-align: center;
+  margin: 0;
+  background-color: #ffdddd;
+  font-family: 'Merriweather', serif;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 1rem;
+  width: 15%;
+  color: white;
+}
+h1{
+  color:darkblue;
+  margin: 10px auto 0 auto;
+  font-family: 'Miss Fajardose', cursive;
+  font-weight: 200;
+  font-size: 6.333rem;
+}
+.webdev{
+
+  color: darkblue;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:200;
+  font-size: 2.25rem;
+  line-height: normal;
+  margin: 0;
+}
+
+h2{
+  color: darkblue;
+}
+h3{
+color: darkblue;
+}
+.topCloud{
+position: relative;
+left: 200px;
+top: 40px;
+  width: 30%;
+
+}
+.bottomCloud{
+  position: absolute;
+  left: 200px;
+
+  width: 30%;
+}
+.multilayerCloud {
+  width: 100%;
+  margin-bottom: 0;
+  vertical-align: bottom;
+}
+
+.heading {
+    background-color: green;
+
+    text-align: center;
+
+
+}
+.top-container{
+    background-color: #c9e5ff;
+    position: relative;
+    }
+
+.middle-container{
+  line-height: 2;
+
+
+}
+
+.profileImage {
+  width: 20%;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.firstgif{
+width: 20%;
+float: left;
+margin-right: 20px;
+}
+.secondgif{
+width: 20%;
+float: right;
+margin-left: 20px;
+
+}
+
+
+
+footer {
+padding-bottom: 10px;
+background-color: #c3def7;
+
+
+}
+.footer-link{
+  color: #11999E;
+}
