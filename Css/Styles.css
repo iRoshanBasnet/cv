@@ -4,6 +4,15 @@ body{
   background-color: #ffdddd;
   font-family: 'Merriweather', serif;
 }
+a {
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
 hr {
   border-style: none;
   border-top-style: dotted;
@@ -117,7 +126,7 @@ margin: auto;
   -webkit-border-radius: 14;
   -moz-border-radius: 14;
   border-radius: 14px;
-  font-family: Arial;
+  font-family: 'Merriweather', serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -145,4 +154,6 @@ background-color: #c3def7;
 }
 .copyright{
   color: #EAF6F6;
+  font-size: 0.76rem;
+  padding: 20px 0 5px;
 }
